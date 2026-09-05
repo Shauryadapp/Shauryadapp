@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Shaurya, a Software Development Engineer based in India with a strong focus on backend architecture, database management, and integrating artificial intelligence into practical applications.<!--
+I am Shaurya, a Software Development Engineer based in India with a strong focus on backend architecture, database management, and integrating artificial intelligence into practical applications.
 
 ### 🚀 About Me
 * 🔭 I’m currently building scalable backend systems and web applications using **Python**, **SQL**, **MongoDB**, and **React.js**.
