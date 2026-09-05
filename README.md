@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I am Shaurya, a Software Development Engineer based in India with a strong focus on backend architecture, database management, and integrating artificial intelligence into practical applications.<!--
-**Shauryadapp/Shauryadapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🚀 About Me
 * 🔭 I’m currently building scalable backend systems and web applications using **Python**, **SQL**, **MongoDB**, and **React.js**.
