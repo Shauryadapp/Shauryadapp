@@ -11,7 +11,7 @@ I am Shaurya, a Software Development Engineer based in India with a strong focus
 * **Languages & Backend:** Python, FastAPI, SQL
 * **Databases:** PostgreSQL, MongoDB, Relational Databases
 * **AI & Data:** Machine Learning, Generative AI, Deep Learning, LLMs
-* **Tools & Deployment:** VSCode, Github, PostMan, Hopscotch, Vercel
+* **Tools & Deployment:** VSCode, Github, PostMan, Hopscotch, Render, Vercel
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [www.linkedin.com/in/shauryaaaapathak]
